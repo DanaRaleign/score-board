@@ -51,3 +51,9 @@ Move into the project directory:
 `cd score-board`
 
 Install dependencies using the package manager configured in the repository.
+
+For example, if the project uses npm:
+
+`npm install`
+
+If the project uses another package manager, use the matching install command for that tool.
