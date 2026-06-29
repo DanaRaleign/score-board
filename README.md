@@ -9,3 +9,9 @@ Repository: https://github.com/DanaRaleign/score-board.git
 `score-board-orpin` provides a focused interface for recording scores and viewing ranking information.
 
 The app is designed around three core activities:
+
+- Submitting a score
+- Browsing the leaderboard
+- Checking a personal rank
+
+It is intended to keep score tracking simple, clear, and easy to navigate.
