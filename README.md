@@ -15,3 +15,10 @@ The app is designed around three core activities:
 - Checking a personal rank
 
 It is intended to keep score tracking simple, clear, and easy to navigate.
+
+## Features
+
+- Multi-page app structure
+- Score submission flow
+- Leaderboard browsing
+- Personal rank view
