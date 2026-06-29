@@ -77,3 +77,9 @@ Use the app to submit a score through the score submission page.
 Open the leaderboard page to view ranked scores.
 
 Open the personal rank page to check an individual ranking position.
+
+Navigate between pages to move through the full score tracking flow.
+
+## Development Notes
+
+Keep page responsibilities clear.
