@@ -57,3 +57,11 @@ For example, if the project uses npm:
 `npm install`
 
 If the project uses another package manager, use the matching install command for that tool.
+
+## Running Locally
+
+Start the local development server using the script defined in the project configuration.
+
+For example:
+
+`npm run dev`
