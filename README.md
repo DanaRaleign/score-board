@@ -45,3 +45,9 @@ Use the repository contents as the source of truth for the current structure.
 Clone the repository:
 
 `git clone https://github.com/DanaRaleign/score-board.git`
+
+Move into the project directory:
+
+`cd score-board`
+
+Install dependencies using the package manager configured in the repository.
