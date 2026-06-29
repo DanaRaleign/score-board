@@ -34,3 +34,8 @@ Common areas of the project may include:
 - App pages
 - Shared components
 - Styling files
+- Configuration files
+- Public assets
+- Dependency and build configuration
+
+Use the repository contents as the source of truth for the current structure.
