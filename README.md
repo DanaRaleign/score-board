@@ -95,3 +95,9 @@ When adding features, prefer small, readable changes.
 When updating the interface, keep labels and actions easy to understand.
 
 ## Recommended Workflow
+
+1. Create or update a focused feature branch.
+2. Make the smallest useful change.
+3. Run the project locally.
+4. Verify score submission, leaderboard browsing, and personal rank views.
+5. Commit the change with a clear message.
