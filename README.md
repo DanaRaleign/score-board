@@ -107,3 +107,9 @@ When updating the interface, keep labels and actions easy to understand.
 Contributions should preserve the purpose of the app.
 
 Before opening a change, confirm that the app still supports:
+
+- Submitting scores
+- Viewing the leaderboard
+- Tracking a personal rank
+
+Keep documentation up to date when behavior changes.
