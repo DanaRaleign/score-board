@@ -89,3 +89,9 @@ The score submission page should focus on entering and sending score data.
 The leaderboard page should focus on displaying ranked results.
 
 The personal rank page should focus on showing a single rank view.
+
+When adding features, prefer small, readable changes.
+
+When updating the interface, keep labels and actions easy to understand.
+
+## Recommended Workflow
