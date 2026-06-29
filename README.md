@@ -71,3 +71,9 @@ Then open the local URL shown in the terminal.
 If a different command is defined, use the script listed in the project configuration file.
 
 ## Usage
+
+Use the app to submit a score through the score submission page.
+
+Open the leaderboard page to view ranked scores.
+
+Open the personal rank page to check an individual ranking position.
