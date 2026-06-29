@@ -113,3 +113,9 @@ Before opening a change, confirm that the app still supports:
 - Tracking a personal rank
 
 Keep documentation up to date when behavior changes.
+
+## License
+
+No license information is provided in the original project description.
+
+Add a license file if one is selected for the project.
