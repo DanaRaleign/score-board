@@ -22,3 +22,9 @@ It is intended to keep score tracking simple, clear, and easy to navigate.
 - Score submission flow
 - Leaderboard browsing
 - Personal rank view
+- Clear separation between score entry and ranking views
+- Built for the Base mini app environment
+
+## Project Structure
+
+The exact structure may evolve as the project grows.
