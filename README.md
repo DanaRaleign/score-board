@@ -101,3 +101,9 @@ When updating the interface, keep labels and actions easy to understand.
 3. Run the project locally.
 4. Verify score submission, leaderboard browsing, and personal rank views.
 5. Commit the change with a clear message.
+
+## Contributing
+
+Contributions should preserve the purpose of the app.
+
+Before opening a change, confirm that the app still supports:
