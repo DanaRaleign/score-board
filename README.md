@@ -83,3 +83,9 @@ Navigate between pages to move through the full score tracking flow.
 ## Development Notes
 
 Keep page responsibilities clear.
+
+The score submission page should focus on entering and sending score data.
+
+The leaderboard page should focus on displaying ranked results.
+
+The personal rank page should focus on showing a single rank view.
