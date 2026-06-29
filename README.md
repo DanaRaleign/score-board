@@ -39,3 +39,9 @@ Common areas of the project may include:
 - Dependency and build configuration
 
 Use the repository contents as the source of truth for the current structure.
+
+## Getting Started
+
+Clone the repository:
+
+`git clone https://github.com/DanaRaleign/score-board.git`
