@@ -28,3 +28,9 @@ It is intended to keep score tracking simple, clear, and easy to navigate.
 ## Project Structure
 
 The exact structure may evolve as the project grows.
+
+Common areas of the project may include:
+
+- App pages
+- Shared components
+- Styling files
